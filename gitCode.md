@@ -17,3 +17,16 @@
 
 <!-- IGNORE -->
 
+<!-- Pour connect un fichier local vers un fichier distant  -->
+### Pour ajouter
+git remote add origin <le lien du fichier distant>
+
+## Pour verifier l'adress
+git remote -v
+
+## Pour ajouter mon fichier 
+git push origin
+
+
+
+
